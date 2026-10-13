@@ -3,3 +3,6 @@
 /data/raw/*.csv
 /data/processed/*.csv
 /data/preprocessed/*.csv
+
+
+txt.py
